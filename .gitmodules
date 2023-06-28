@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "nsm3data"]
 	path = nsm3data
 	url = https://github.com/kim3-sudo/nsm3data
-	shallow = true
-	registered = true
